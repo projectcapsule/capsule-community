@@ -6,7 +6,7 @@ This is the starting point to join and contribute to Capsule, with docs, code, f
 
 ## Connect
 
-You can join the Capsule [Slack channel](https://clastix.slack.com/archives/C017HQ6LTEE) by sending an email to hello[at]clastix.io and chat and meet each other there.
+You can join the Capsule [Slack channel](https://kubernetes.slack.com/archives/C03GETTJQRL).
 
 We also meet every two weeks on the [Community call](https://meet.google.com/hib-hdhs-bji) to talk about the topics we propose on the [meeting note](https://hackmd.io/@clastix/SkUDImOU5).
 
@@ -27,6 +27,6 @@ If you miss a community call you can check the the [meeting notes archive](./mee
 ### Process
 
 Please start by reading the [guidelines](https://capsule.clastix.io/docs/contributing/guidelines).
-You can then open an issue [here](https://github.com/clastix/capsule/issues/new/choose), and if you'd like to discuss it first, join the [Slack channel](https://clastix.slack.com/archives/C017HQ6LTEE) and don't be shy :-)
+You can then open an issue [here](https://github.com/clastix/capsule/issues/new/choose), and if you'd like to discuss it first, join the [Slack channel](https://kubernetes.slack.com/archives/C03GETTJQRL) and don't be shy :-)
 
 If you want to contribute to the community organization itself, open it [here](https://github.com/clastix/capsule-community/issues/new).
